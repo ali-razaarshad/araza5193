@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @araza5193
 - 👀 I’m interested in learing new technologies.
 - 🌱 I’m currently learning React js.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on <working onit>
 - 📫 How to reach me araza5193@gmail.com
 
 <!---
