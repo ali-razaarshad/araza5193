@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @araza5193
+- 👋 Hi, I’m Ali Raza
 - 👀 I’m interested in learing new technologies.
 - 🌱 I’m currently learning React js.
 - 💞️ I’m looking to collaborate on github
